@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on something Interesting<br>⚡ Fun fact- My interest into programming was started with 'Sudo apt-get update'.<br>{yeah, linux user since kid};
+🔭 I’m currently working on something Interesting<br>⚡ Fun fact: My interest in programming started with 'Sudo apt-get update'.<br>{yeah, linux user since kid};
 
 
 ## 🌐 Socials:
